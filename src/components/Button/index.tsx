@@ -8,6 +8,6 @@ type Props = TouchableOpacityProps & {
 
 export function Button({title,isLoading}: Props) {
   return <Container>
-    {isLoading? }
+   
   </Container>;
 }
